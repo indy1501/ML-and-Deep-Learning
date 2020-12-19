@@ -5,3 +5,4 @@
 * TensorFlow Recommenders Matrix Factorization Model
 * Twitter Scraper
 * Politifact Scraper
+* BigQuery : Cloud Data Warehouse
